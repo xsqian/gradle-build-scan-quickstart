@@ -51,4 +51,4 @@ If you are completely new to the Gradle Build Tool, start [here][gradle-download
 [scans.gradle.com]: https://scans.gradle.com/
 [gradle-forum]: https://discuss.gradle.org/c/help-discuss/scans
 
-make a change to triggger the jenkins build job
+make a change to triggger the jenkins build job again
